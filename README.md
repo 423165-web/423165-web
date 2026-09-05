@@ -7,8 +7,7 @@ CS undergraduate focused on Python, SQL, Data Structures & Algorithms, data engi
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/
-patnam-karthik-a31592370
+  <a href="www.linkedin.com/in/patnam-karthik-a31592370
 "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://drive.google.com/file/d/13QxXeowNJ3XHHC_ZQ4ZeniauKO8iQjDR/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=googledocs&logoColor=white" /></a>
   <a href="mailto:karthikyadavpatnam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
@@ -261,8 +260,7 @@ A cloud-based web solution developed for traffic monitoring and management.
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/
-patnam-karthik-a31592370
+  <a href="www.linkedin.com/in/patnam-karthik-a31592370
 "><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:karthikyadavpatnam@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/WJFaYfZf8N/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
